@@ -1,4 +1,4 @@
-# LinkedIn organic content strategy for B2B SaaS
+# Research Sources: LinkedIn organic content strategy for B2B SaaS
 
 Here is a curated list of 10 high-signal experts, creators, and podcast hosts who actively share tactical, real-world frameworks for **B2B SaaS LinkedIn organic content strategy and founder brand-building**.
 
