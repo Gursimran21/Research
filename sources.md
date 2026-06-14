@@ -44,13 +44,19 @@ Here is a curated list of 10 high-signal experts, creators, and podcast hosts wh
 
 **6. Sara Stella Lattanzio**
 - **Role/Background:** Independent B2B Content Marketing Advisor.
+- **Platform:** [LinkedIn Profile](https://www.linkedin.com/in/saralattanzio/)
+- **Data Collection Window:** May 1, 2026 – June 14, 2026
+- **Date of Extraction:** June 14, 2026
+- **Annotation:** Sara Stella Lattanzio provides highly visual step-by-step content operations workflows. Her data shows how lean SaaS marketing teams can repurpose one core asset into weeks of LinkedIn posts.
 - **Why to Follow:** Highly tactical creator who shares exact visual frameworks, slide-deck templates, and structured workflows for executing a sustainable organic LinkedIn engine without burning out.
-- **Platform:** LinkedIn
 
 **7. Diandra Escobar**
 - **Role/Background:** Founder of Distinctiva (LinkedIn ghostwriting and content strategy practice for SaaS executives).
-- **Why to Follow:** Specializes in building organic content flywheels for B2B executives and founders, ensuring their LinkedIn content drives enterprise credibility and commercial resonance.
 - **Platform:** LinkedIn
+- **Data Collection Window:** May 10, 2026 – June 14, 2026
+- **Date of Extraction:** June 14, 2026
+- **Annotation:** Diandra Escobar explores the strategy behind corporate executive presence on LinkedIn, detailing how to turn a founder’s raw ideas into authority-building content.
+- **Why to Follow:** Specializes in building organic content flywheels for B2B executives and founders, ensuring their LinkedIn content drives enterprise credibility and commercial resonance.
 
 **8. Justin Rowe**
 - **Role/Background:** Founder and CMO of Impactable.
