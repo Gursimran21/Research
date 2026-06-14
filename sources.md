@@ -68,8 +68,11 @@ Here is a curated list of 10 high-signal experts, creators, and podcast hosts wh
 
 **9. Collin Cadmus**
 - **Role/Background:** Former VP of Sales at Aircall and Doctor.com, B2B Growth Advisor.
+- **Platform:** [LinkedIn Profile](https://www.linkedin.com/in/collincadmus/) / Podcast (The Collin Cadmus Podcast)
+- **Data Collection Window:** April 15, 2026 – June 14, 2026
+- **Date of Extraction:** June 14, 2026
+- **Annotation:** Collin Cadmus links organic content directly to modern B2B sales. His insights detail how social selling and demand generation bypass traditional cold calling.
 - **Why to Follow:** Offers a unique intersection of sales and marketing strategy. He demonstrates how SaaS leaders can use organic content to address real sales call objections and bypass traditional cold outreach.
-- **Platform:** LinkedIn / Podcast (The Collin Cadmus Podcast)
 
 **10. Suresh Sambandam**
 - **Role/Background:** Founder & CEO of Kissflow.
