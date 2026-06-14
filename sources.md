@@ -4,8 +4,11 @@ Here is a curated list of 10 high-signal experts, creators, and podcast hosts wh
 
 **1. Devin Reed**
 - **Background:** Former Head of Content at Gong (helped scale them from $20M to $200M ARR) and creator of The Reeder.
+- **Platform:** [LinkedIn Profile](https://www.linkedin.com/in/devinreed/)
+- **Data Collection Window:** May 1, 2026 – June 14, 2026
+- **Date of Extraction:** June 14, 2026
+- **Annotation:** Devin Reed focuses on shifting complex B2B SaaS product features into compelling personal brand narratives. His data provides frameworks for executive storytelling.
 - **Why to Follow:** He provides exact, internal methodologies for transforming complex SaaS product concepts into hyper-engaging LinkedIn personal and executive brand narratives.
-- **Platform:** LinkedIn
 
 **2. Dave Gerhardt**
 - **Background:** Founder of Exit Five (the largest community for B2B marketers) and former CMO at Drift.
