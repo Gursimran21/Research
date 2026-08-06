@@ -71,3 +71,5 @@ Here is the specific rationale for including each expert:
 - Who I Would NOT Recommend Following and Why
 
    - Of the 10 experts I researched, which one(s) would I not recommend to others, and why?
+ 
+- To find the playbook on the topic "**LinkedIn organic content strategy for B2B SaaS**", click on this link - [Research Playbook](playbook.md).
