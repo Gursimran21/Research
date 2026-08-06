@@ -2,7 +2,7 @@
 
 ## 100Hires Research: LinkedIn organic content strategy for B2B SaaS
 
-## What I Collected 
+## What Was Collected 
 
 - Data was collected from 10 high-signal experts on the topic "**LinkedIn organic content strategy for B2B SaaS**" where it describes about (LinkedIn authors, YouTube creators, Podcast hosts - people who actually practice what they teach, not just write about it).
 
