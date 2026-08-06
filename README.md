@@ -53,4 +53,20 @@ Here is the specific rationale for including each expert:
   Minimum 3 examples where different experts recommend different approaches. For each:
   - What Author A recommends
   - What Author B recommends
-  - Which side you take and why
+  - Which side I take and why
+
+- What I Rejected and Why
+
+  Minimum 2 ideas from the research sources that I decided not to include, with clear reasoning.
+
+- My Original Ideas
+
+  Minimum 1 original idea that I did not find in my research sources and explained it why it could work.
+
+- Weaknesses of this Playbook
+
+  Details has been provided about the weaknesses of this playbook might not work, what assumptions are untested, and what is missing.
+
+- Who I Would NOT Recommend Following and Why
+
+  Of the 10 experts I researched, which one(s) would I not recommend to others, and why?
