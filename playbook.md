@@ -8,4 +8,4 @@ This operational playbook details how to execute an organic LinkedIn strategy fo
 
 2. **Leverage a 90-Day Compounding Horizon:** Expect a minimum 90-day lag between launching a founder-led LinkedIn cadence and seeing a predictable inbound pipeline flow (Source: Tommy Clark, [Compound Content Studio Overview](https://gamma.app/docs/Compound-Content-Studio-Overview-x3fux9r1qnojyoi?mode=doc)).
 
-3. **Establish "Brand as a Moat":** Shift focus from quick, transaction-heavy selling to building a recognizable brand voice; authority and consistent positioning generate durable inbound pipeline (Source: Dave Gerhardt, Exit Five Podcast).
+3. **Establish "Brand as a Moat":** Shift focus from quick, transaction-heavy selling to building a recognizable brand voice; authority and consistent positioning generate durable inbound pipeline (Source: Dave Gerhardt, [Exit Five Podcast](https://podcasts.apple.com/sa/podcast/the-dave-gerhardt-show-from-exit-five/id1599954536) from 31.07.2026).
