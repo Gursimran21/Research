@@ -44,16 +44,17 @@ Here is the specific rationale for including each expert:
 
 ## Playbook on LinkedIn organic content strategy for B2B SaaS
 
-- From the collected data a playbook has been created on the topic "**LinkedIn organic content strategy for B2B SaaS**".
+- A playbook is created from the collected data on the research topic "**LinkedIn organic content strategy for B2B SaaS**".
 
 - Every collected data recommendation is cited with its sources.
 
 - Where Experts Disagree
   
   Minimum 3 examples where different experts recommend different approaches. For each:
-  - What Author A recommends
-  - What Author B recommends
-  - Which side I take and why
+  
+   - What Author A recommends
+   - What Author B recommends
+   - Which side I take and why
 
 - What I Rejected and Why
 
