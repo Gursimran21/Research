@@ -81,3 +81,5 @@ This operational playbook details how to execute an organic LinkedIn strategy fo
 **Suresh Sambandam**
 
 - **Why:** While Suresh Sambandam provides a strong example of an established enterprise CEO building global authority, his approach is difficult to replicate for seed or Series A/B B2B SaaS startups. Enterprise CEOs operating at scale can leverage broad regional, corporate, and ecosystem topics that generate high impressions but lack the tactical, hyper-specific product and GTM depth required for earlier-stage companies trying to generate an immediate pipeline. Early-stage operators need tactical, execution-focused frameworks (like those from Sara Stella Lattanzio or Tommy Clark) rather than high-level enterprise executive presence.
+
+## Go back to [README](README.md)
