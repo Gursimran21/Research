@@ -52,9 +52,9 @@ Here is the specific rationale for including each expert:
   
   Minimum 3 examples where different experts recommend different approaches. For each:
   
-   - What Author A recommends
-   - What Author B recommends
-   - Which side I take and why
+   - What Author A recommends.
+   - What Author B recommends.
+   - Which side I take and why.
 
 - What I Rejected and Why
 
